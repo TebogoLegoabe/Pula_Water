@@ -230,7 +230,7 @@ const App = () => {
 
     try {
       await emailjs.send(
-        'service_9jx6z1b',    
+        'service_6qsodor',    
         'template_pv8ei47',      
         templateParams,
         'x8DqcGB-i_FidrVQc'        
